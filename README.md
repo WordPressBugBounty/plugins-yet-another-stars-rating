@@ -1,0 +1,1 @@
+# plugins-yet-another-stars-rating
