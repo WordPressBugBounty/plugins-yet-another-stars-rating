@@ -1,9 +1,10 @@
 === YASR - Yet Another Star Rating Plugin for WordPress ===
 Tags: rating, rate post, star rating, google rating, block
 Requires at least: 4.7
-Contributors: Dudo, paretodigital, knofte, freemius
+Contributors: Dudo, paretodigital, knofte
 Tested up to: 6.6
 Stable tag: 3.4.11
+License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Boost the way people interact with your site with an easy WordPress stars rating system! With schema.org rich snippets YASR will improve your SEO
@@ -132,7 +133,9 @@ As one can see , YASR provides so much more than just basic functionality. Users
 
 ✨ [Live Demo](https://yetanotherstarsrating.com/this-is-just-a-title/?utm_source=wp_repo&utm_medium=link&utm_campaign=live_demo) | 📚 [Documentation](https://yetanotherstarsrating.com/docs//?utm_source=wp_repo&utm_medium=link&utm_campaign=docs) | 🌟 [PRO Features](https://yetanotherstarsrating.com/?utm_source=wp_repo&utm_medium=link&utm_campaign=features#features) | 🔥 [Get PRO](https://yetanotherstarsrating.com/?utm_source=wp_repo&utm_medium=link&utm_campaign=get_pro)
 
-Also check out our other plugin: [Google Reviews Plugin for WordPress](https://wordpress.org/plugins/embedder-for-google-reviews/)
+Also check out our other plugins:
+- [Google Reviews Plugin for WordPress](https://wordpress.org/plugins/embedder-for-google-reviews/)
+- Send Users Email – [Email Subscribers, Email Marketing Newsletter](https://wordpress.org/plugins/send-users-email/)
 
 == Developers ==
 While YASR - Yet Another Stars Rating does not require any coding, it is developer friendly!
