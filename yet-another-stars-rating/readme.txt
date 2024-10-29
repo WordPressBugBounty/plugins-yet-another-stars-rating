@@ -2,8 +2,8 @@
 Tags: rating, rate post, star rating, google rating, block
 Requires at least: 4.7
 Contributors: Dudo, paretodigital, knofte
-Tested up to: 6.6
-Stable tag: 3.4.11
+Tested up to: 6.7
+Stable tag: 3.4.12
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -242,6 +242,9 @@ It is possible to adjust the look of YASR rating stars by selecting how many you
 == Changelog ==
 
 The full changelog can be found in the plugin's directory. Recent entries:
+= 3.4.11 =
+* Upgraded Freemius SDK
+* WP 6.7 compatibility
 
 = 3.4.7 =
 * FIXED: security update
